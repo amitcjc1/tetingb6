@@ -10,6 +10,11 @@ public class Demo
 	
 	public void sub()
 	{
+		System.out.println("Sub Method of Demo class");
+	}
+	
+	public void sub()
+	{
 		System.out.println("Sub");
 	}
 public static void main(String[] args) {
